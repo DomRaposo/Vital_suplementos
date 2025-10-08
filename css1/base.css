@@ -156,7 +156,8 @@ a:hover {
 
 /* Seções Gerais */
 .main-content {
-    padding-top: 40px;
+    
+    padding-top: 100px;
     padding-bottom: 60px;
 }
 
