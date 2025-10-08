@@ -136,7 +136,7 @@ a:hover {
 /* Botões CTA */
 .cta-button {
     display: inline-block;
-    background: linear-gradient(90deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    background: #32CD32;
     color: var(--background-color);
     padding: 12px 25px;
     border-radius: 8px;
@@ -161,7 +161,7 @@ a:hover {
 }
 
 h1, h2, h3 {
-    color: var(--primary-color);
+    color: #68991c;
     margin-bottom: 20px;
     text-align: center;
 }
