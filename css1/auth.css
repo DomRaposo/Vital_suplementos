@@ -1,10 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0;
+    box-sizing: border-box;
+}
+
 /* Estilos para páginas de autenticação (Login, Register, Reset Password) */
 .auth-container {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: calc(100vh - 150px); /* Ajustar conforme altura do navbar/footer */
-    padding: 20px;
+    padding-top: 90px;
+    padding-bottom: 0px;
+    
+    
 }
 
 .auth-card {

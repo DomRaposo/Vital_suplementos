@@ -92,7 +92,7 @@
 
 .progress-bar {
     height: 100%;
-    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    background: #34ce32;
     border-radius: 20px;
     display: flex;
     align-items: center;
